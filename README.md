@@ -1,1 +1,2 @@
 # Assembly-CPP-matrix-multiplication
+This project involves developing a Matrix Multiplication Program using 8086 assembly language that multiplies two matrices and adds a constant value to each element of the matrices. The matrices have dimensions of 3 rows by 3 columns, and the resulting matrix will also have dimensions of 3 rows by 3 columns. The program is implemented in an assembly file and is called by a method in the matrices.cpp file to perform the matrix multiplication. The output is then printed from the cpp file.
